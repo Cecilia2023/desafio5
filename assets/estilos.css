@@ -1,0 +1,36 @@
+h1{
+    display: inline;
+    background-color: aqua ;
+}
+
+ul{
+    display: inline-flex;
+}
+
+li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 0px 20px;
+
+}
+a{
+    display: inline-block;
+    list-style-type: none;
+    margin: 0px 20px; 
+}
+p{
+    display: inline-flex;
+    background-color: yellowgreen;
+}
+
+footer{
+    grid-area: miFooter;
+    background-color: aquamarine;
+    color: black;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,65,1) 35%, rgba(0,212,255,1) 100%);
+}

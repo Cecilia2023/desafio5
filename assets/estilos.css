@@ -20,7 +20,16 @@ a{
 }
 p{
     display: inline-flex;
-    background-color: yellowgreen;
+    background-color:;
+}
+.nuestrosproductos{
+    background-color: blue;
+    width:auto;
+    height: auto;
+    margin:0px;
+    padding: 00px;
+    border: solid;
+    box-sizing: border-box;
 }
 
 footer{

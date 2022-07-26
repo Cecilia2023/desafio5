@@ -11,7 +11,6 @@ li{
     display: inline-block;
     list-style-type: none;
     margin: 0px 20px;
-
 }
 a{
     display: inline-block;
@@ -42,4 +41,10 @@ footer{
     align-items: center;
     background: rgb(2,0,36);
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,65,1) 35%, rgba(0,212,255,1) 100%);
+}
+.slide{
+    margin-top:30px;
+}
+.slide img {
+    height: 75vh;
 }
